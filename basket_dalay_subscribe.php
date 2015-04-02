@@ -7,7 +7,7 @@
 use \Bitrix\Main;
 use \Bitrix\Main\Type as FieldType;
 
-#отключение статистики и акентов
+#отключение статистики и агентов
 define('STOP_STATISTICS', true);
 define('NO_AGENT_CHECK', true);
 define('STATISTIC_SKIP_ACTIVITY_CHECK', true);
